@@ -1,0 +1,12 @@
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+.dream-box{
+    display: block;
+    text-align: center;
+}
+body{
+    background: rgb(211, 211, 207);
+    font-family: 'Lato', sans-serif;
+}
